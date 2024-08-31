@@ -1,2 +1,2 @@
-# gitCheatSheet
-git quick reference and cheat sheet
+# git
+git quick reference, cheat sheet and codes
